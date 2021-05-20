@@ -1,8 +1,6 @@
 /node_modules
 /public/hot
 /public/storage
-/app/Http/Controllers
-/routes
 /storage/*.key
 /vendor
 .env
